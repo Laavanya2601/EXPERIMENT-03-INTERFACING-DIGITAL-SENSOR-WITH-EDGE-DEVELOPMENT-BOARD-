@@ -91,7 +91,7 @@ while True:
 
 ## **OUTPUT:**  
  
-![Screenshot 2025-03-13 090448](https://github.com/user-attachments/assets/42cf0280-adaa-48ed-bdcf-c76a3b563bfb)
+![Screenshot 2025-03-06 113403](https://github.com/user-attachments/assets/e761dc0a-74ed-4af6-8279-20034e2f6fde)
 
 
   
